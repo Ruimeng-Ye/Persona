@@ -163,4 +163,4 @@ dependencies:
       - xxhash==3.5.0
       - yarl==1.15.2
       - zipp==3.20.2
-prefix: /home/bhui/miniconda3/envs/mbti
+prefix: 
